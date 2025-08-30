@@ -1,0 +1,18 @@
+[
+  {
+    "id": "dummy-id-1",
+    "threadId": "dummy-thread-1",
+    "subject": "Test message: welcome to Gmail Reader",
+    "sender": "noreply@example.com",
+    "date": "Mon, 01 Jan 2024 10:00:00 +0000",
+    "snippet": "This is a sample snippet for demonstration purposes."
+  },
+  {
+    "id": "dummy-id-2",
+    "threadId": "dummy-thread-2",
+    "subject": "Your weekly summary",
+    "sender": "updates@example.com",
+    "date": "Mon, 08 Jan 2024 10:00:00 +0000",
+    "snippet": "Another sample message to illustrate the JSON structure."
+  }
+]
